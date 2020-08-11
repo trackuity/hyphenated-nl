@@ -1,0 +1,23 @@
+{
+  "name": "hyphenated-nl",
+  "version": "1.0.0",
+  "keywords": [
+    "hyphenation",
+    "javascript",
+    "library",
+    "nl",
+    "dutch"
+  ],
+  "homepage": "https://github.com/digitalartlab/hyphenated-nl",
+  "bugs": "https://github.com/digitalartlab/hyphenated-nl/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalartlab/hyphenated-nl.git",
+    "directory": "/"
+  },
+  "license": "LPPL-1.3c",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8"
+  }
+}
