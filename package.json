@@ -1,5 +1,6 @@
 {
   "name": "@digitalartlab/hyphenated-nl",
+  "description": "Hyphenation patterns and exceptions for the Dutch language",
   "version": "0.0.1",
   "keywords": [
     "hyphenation",
@@ -26,5 +27,7 @@
   "peerDependencies": {
     "hyphenated": "~1.2"
   },
-  "description": "Hyphenation patterns and exceptions for the Dutch language"
+  "publishConfig": {
+    "access": "public"
+  }
 }
