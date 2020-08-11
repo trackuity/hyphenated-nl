@@ -7,7 +7,7 @@ See the [home page](https://github.com/sergeysolovev/hyphenated) for more inform
 ## Installation
 
 ```shell
-npm install hyphenated-nl
+npm install @digitalartlab/hyphenated-nl
 ```
 
 ## License
