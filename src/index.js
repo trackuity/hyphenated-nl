@@ -8,7 +8,7 @@
  * The latest version of this license is in
  * http://www.latex-project.org/lppl.txt
  *
- * This work is an adaptation of Piet Tutelaers hyphenation work for LaTeX.
+ * This work is an adaptation of Piet Tutelaers' hyphenation work for LaTeX.
  * 
  * See the original work here:
  * https://github.com/hyphenation/tex-hyphen/blob/master/hyph-utf8/tex/generic/hyph-utf8/patterns/tex/hyph-nl.tex
