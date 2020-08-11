@@ -12769,6 +12769,7 @@ export default {
     "mi-nis-ters-por-te-feuil-les",
     "ont-hoof-din-gen",
     "pa-ling-ste-ken",
+    "per-sonen-scan-ner",
     "rechts-taal",
     "schil-ders-ta-lent",
     "sou-ve-niertje",
@@ -12783,6 +12784,7 @@ export default {
     "ver-steeds-te",
     "wals-te",
     "wa-ter-staats-in-ge-ni-eur",
-    "wa-ter-staats-in-ge-ni-eurs"
+    "wa-ter-staats-in-ge-ni-eurs",
+    "web-site"
   ]
-}
+};

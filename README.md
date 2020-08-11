@@ -1,7 +1,6 @@
 # hyphenated-nl
 
-This package contains hyphenation patterns and exceptions for the Dutch language. It is intended to be used with the main `hyphenated` package
-but not included as a dependency.
+This package contains hyphenation patterns and exceptions for the Dutch language. It is intended to be used with the main `hyphenated` package.
 
 See the [home page](https://github.com/sergeysolovev/hyphenated) for more information.
 

@@ -1,6 +1,6 @@
 {
-  "name": "hyphenated-nl",
-  "version": "1.0.0",
+  "name": "@digitalartlab/hyphenated-nl",
+  "version": "0.0.1",
   "keywords": [
     "hyphenation",
     "javascript",
@@ -9,15 +9,22 @@
     "dutch"
   ],
   "homepage": "https://github.com/digitalartlab/hyphenated-nl",
-  "bugs": "https://github.com/digitalartlab/hyphenated-nl/issues",
+  "bugs": {
+    "url": "https://github.com/digitalartlab/hyphenated-nl/issues"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/digitalartlab/hyphenated-nl.git",
+    "url": "git+https://github.com/digitalartlab/hyphenated-nl.git",
     "directory": "/"
   },
   "license": "LPPL-1.3c",
   "main": "index.js",
   "engines": {
     "node": ">=8"
-  }
+  },
+  "author": "Thijmen de Valk (https://madebythijmen.nl)",
+  "peerDependencies": {
+    "hyphenated": "~1.2"
+  },
+  "description": "Hyphenation patterns and exceptions for the Dutch language"
 }
