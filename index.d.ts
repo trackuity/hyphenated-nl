@@ -4,6 +4,4 @@ interface HyphenatedLang {
   exceptions?: [string];
 }
 
-const HyphenatedLang: HyphenatedLang;
-
 export default HyphenatedLang;

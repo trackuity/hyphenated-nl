@@ -13,7 +13,7 @@ npm install @digitalartlab/hyphenated-nl
 
 ## License
 
-LPPL 1.3c
+This package is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Thanks
 This package is based on Piet Tutelaers' hyphenation work for LaTeX. See his original work [here](https://github.com/hyphenation/tex-hyphen/blob/master/hyph-utf8/tex/generic/hyph-utf8/patterns/tex/hyph-nl.tex).

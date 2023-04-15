@@ -1,7 +1,7 @@
 {
   "name": "@digitalartlab/hyphenated-nl",
   "description": "Hyphenation patterns and exceptions for the Dutch language",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "hyphenation",
     "javascript",
@@ -9,21 +9,21 @@
     "nl",
     "dutch"
   ],
-  "homepage": "https://github.com/digitalartlab/hyphenated-nl",
+  "homepage": "https://github.com/digitalartlab/dal-hyphenated-nl",
   "bugs": {
-    "url": "https://github.com/digitalartlab/hyphenated-nl/issues"
+    "url": "https://github.com/digitalartlab/dal-hyphenated-nl/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/digitalartlab/hyphenated-nl.git",
+    "url": "git+https://github.com/digitalartlab/dal-hyphenated-nl.git",
     "directory": "/"
   },
-  "license": "LPPL-1.3c",
+  "license": "MIT",
   "main": "index.js",
   "engines": {
     "node": ">=8"
   },
-  "author": "Thijmen de Valk (https://madebythijmen.nl)",
+  "author": "Digital Art Lab",
   "peerDependencies": {
     "hyphenated": "~1.2"
   },

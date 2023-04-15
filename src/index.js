@@ -1,12 +1,6 @@
 /*
  * Copyright (C) 1996 Piet Tutelaers
- * Copyright (C) 2020 Thijmen de Valk
- *
- * This work may be distributed and/or modified under the
- * conditions of the LaTeX Project Public License, either version 1.3c
- * of this license or (at your option) any later version.
- * The latest version of this license is in
- * http://www.latex-project.org/lppl.txt
+ * Copyright (C) 2020 Stichting Kunst en Cultuur Zoetermeer
  *
  * This work is an adaptation of Piet Tutelaers' hyphenation work for LaTeX.
  * 

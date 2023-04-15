@@ -7,7 +7,7 @@ Please take a moment to review our contributing guidelines, so this becomes a sm
 Hyphenated NL is a Dutch language plugin for [Hyphenated](https://github.com/sergeysolovev/hyphenated).
 
 ## Code of Conduct
-At Digital Art Lab we work hard to make everyone feel welcome and included, both online and offline. That's why we have a [Code of Conduct](CODE_OF_CONDUCT.md). We expect everyone (that includes us) to stick to this code and treat each other respectfully.
+At Digital Art Lab we work hard to make everyone feel welcome and included, both online and offline. That's why we have a [Code of Conduct](https://github.com/digitalartlab/.github/blob/main/CODE_OF_CONDUCT.md). We expect everyone (that includes us) to stick to this code and treat each other respectfully.
 
 ## Support questions
 Please don't use our issue tracker for general Hyphenated support questions, only for questions related to Hyphenated NL.
