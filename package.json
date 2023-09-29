@@ -1,5 +1,5 @@
 {
-  "name": "@digitalartlab/hyphenated-nl",
+  "name": "@trackuity/hyphenated-nl",
   "description": "Hyphenation patterns and exceptions for the Dutch language",
   "version": "1.0.1",
   "keywords": [
@@ -9,13 +9,13 @@
     "nl",
     "dutch"
   ],
-  "homepage": "https://github.com/digitalartlab/dal-hyphenated-nl",
+  "homepage": "https://github.com/trackuity/hyphenated-nl",
   "bugs": {
-    "url": "https://github.com/digitalartlab/dal-hyphenated-nl/issues"
+    "url": "https://github.com/trackuity/hyphenated-nl/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/digitalartlab/dal-hyphenated-nl.git",
+    "url": "git+https://github.com/trackuity/hyphenated-nl.git",
     "directory": "/"
   },
   "license": "MIT",
@@ -23,7 +23,7 @@
   "engines": {
     "node": ">=8"
   },
-  "author": "Digital Art Lab",
+  "author": "Trackuity",
   "peerDependencies": {
     "hyphenated": "~1.2"
   },
